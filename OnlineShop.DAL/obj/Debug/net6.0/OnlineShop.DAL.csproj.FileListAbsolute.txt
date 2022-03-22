@@ -1,0 +1,12 @@
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\bin\Debug\net6.0\OnlineShop.DAL.deps.json
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\bin\Debug\net6.0\OnlineShop.DAL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\bin\Debug\net6.0\OnlineShop.DAL.pdb
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.csproj.AssemblyReference.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.AssemblyInfoInputs.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.AssemblyInfo.cs
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\refint\OnlineShop.DAL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\OnlineShop.DAL.pdb
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.DAL\obj\Debug\net6.0\ref\OnlineShop.DAL.dll

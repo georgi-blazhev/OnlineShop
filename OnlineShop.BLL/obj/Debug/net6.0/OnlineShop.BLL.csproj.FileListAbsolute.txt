@@ -1,0 +1,15 @@
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\bin\Debug\net6.0\OnlineShop.BLL.deps.json
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\bin\Debug\net6.0\OnlineShop.BLL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\bin\Debug\net6.0\OnlineShop.BLL.pdb
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\bin\Debug\net6.0\OnlineShop.DAL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\bin\Debug\net6.0\OnlineShop.DAL.pdb
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.csproj.AssemblyReference.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.AssemblyInfoInputs.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.AssemblyInfo.cs
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.csproj.CopyComplete
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\refint\OnlineShop.BLL.dll
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\OnlineShop.BLL.pdb
+C:\Users\georgi.blazhev\source\repos\OnlineShop.WEB\OnlineShop.BLL\obj\Debug\net6.0\ref\OnlineShop.BLL.dll
